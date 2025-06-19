@@ -1,5 +1,5 @@
 streamlit
-groq
+groq==0.4.2
 beautifulsoup4
 speechrecognition
 gtts
@@ -7,3 +7,5 @@ langdetect
 googletrans==3.1.0a0
 requests
 trafilatura
+httpx
+pydantic
