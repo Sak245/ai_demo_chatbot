@@ -1,5 +1,5 @@
 streamlit
-groq>=0.11.0
+groq==0.9.0
 beautifulsoup4
 speechrecognition
 gtts
