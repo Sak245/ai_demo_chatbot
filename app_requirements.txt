@@ -1,0 +1,9 @@
+streamlit
+groq
+beautifulsoup4
+speechrecognition
+gtts
+langdetect
+googletrans==3.1.0a0
+requests
+trafilatura
